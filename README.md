@@ -1,4 +1,4 @@
 # notebooks_waves
 
 
-All notebooks for master thesis
+All notebooks for my master thesis
